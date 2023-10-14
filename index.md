@@ -10,3 +10,6 @@ SELECT *
 FROM
 WHERE
 ```
+- [x] Start learning git
+- [ ] Outline my portfolio
+- [ ] post on linkedin
